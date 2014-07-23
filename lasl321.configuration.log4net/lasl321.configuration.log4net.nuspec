@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>lasl321.configuration.log4net</id>
+    <version>1.0.0</version>
+    <authors>lasl321</authors>
+    <description>log4net configuration sample</description>
+    <dependencies>
+      <dependency id="log4net" version="[2.0.3]" />
+    </dependencies>
+  </metadata>
+</package>
